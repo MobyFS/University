@@ -1,0 +1,9 @@
+﻿  CppCLR_WinformsProjekt.cpp
+CppCLR_WinformsProjekt.cpp(3): warning C4005: __CLR_VER: изменение макроопределения
+  CppCLR_WinformsProjekt.cpp(3): note: аргументы командной строки:  см. предыдущее определение "__CLR_VER"
+CppCLR_WinformsProjekt.cpp(3): warning C4651: параметр "/D__CLR_VER=40703163" указан для предкомпилированного заголовка, но не для текущей компиляции
+c:\users\fredf\desktop\учеба\программирование\sqrtfun(вторая)\sqrtfun\form1.h(314): warning C4700: использована неинициализированная локальная переменная "x2"
+c:\users\fredf\desktop\учеба\программирование\sqrtfun(вторая)\sqrtfun\form1.h(314): warning C4700: использована неинициализированная локальная переменная "x1"
+  AssemblyInfo.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Sqrtfun.vcxproj -> C:\Users\fredf\Desktop\Учеба\Программирование\Sqrtfun(вторая)\Debug\Sqrtfun.exe
+  Sqrtfun.vcxproj -> C:\Users\fredf\Desktop\Учеба\Программирование\Sqrtfun(вторая)\Debug\Sqrtfun.pdb (Partial PDB)

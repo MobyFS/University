@@ -1,0 +1,8 @@
+﻿  CppCLR_WinformsProjekt.cpp
+CppCLR_WinformsProjekt.cpp(3): warning C4005: __CLR_VER: изменение макроопределения
+  CppCLR_WinformsProjekt.cpp(3): note: аргументы командной строки:  см. предыдущее определение "__CLR_VER"
+CppCLR_WinformsProjekt.cpp(3): warning C4651: параметр "/D__CLR_VER=40703163" указан для предкомпилированного заголовка, но не для текущей компиляции
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Calc.vcxproj -> C:\Users\fredf\Desktop\Учеба\Программирование\Calc(первая)\Debug\Calc.exe
+  Calc.vcxproj -> C:\Users\fredf\Desktop\Учеба\Программирование\Calc(первая)\Debug\Calc.pdb (Partial PDB)

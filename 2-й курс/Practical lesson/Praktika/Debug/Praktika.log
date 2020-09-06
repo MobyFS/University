@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+d:\учеба мтуси 1-й + 2-ой курс\лаб.работы по питону\практика\practical lesson\praktika\form1.h(101): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\учеба мтуси 1-й + 2-ой курс\лаб.работы по питону\практика\practical lesson\praktika\form1.h(103): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Form1.cpp
+  Создание кода...
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Praktika.vcxproj -> D:\Учеба Мтуси 1-й + 2-ой курс\Лаб.работы по питону\Практика\Practical lesson\Debug\Praktika.exe

@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+c:\users\fredf\desktop\практика(мп)\practical lesson3\practical lesson3\MyForm1.h(111): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\fredf\desktop\практика(мп)\practical lesson3\practical lesson3\MyForm1.h(113): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\fredf\desktop\практика(мп)\practical lesson3\practical lesson3\MyForm2.h(112): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\fredf\desktop\практика(мп)\practical lesson3\practical lesson3\MyForm2.h(119): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MyForm2.cpp
+c:\users\fredf\desktop\практика(мп)\practical lesson3\practical lesson3\MyForm2.h(112): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\fredf\desktop\практика(мп)\practical lesson3\practical lesson3\MyForm2.h(119): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Practical lesson3.vcxproj -> C:\Users\fredf\Desktop\Практика(МП)\Practical lesson3\Debug\Practical lesson3.exe
+  Practical lesson3.vcxproj -> C:\Users\fredf\Desktop\Практика(МП)\Practical lesson3\Debug\Practical lesson3.pdb (Full PDB)

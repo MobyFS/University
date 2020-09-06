@@ -1,0 +1,6 @@
+﻿  CppCLR_WinformsProjekt.cpp
+c:\users\fredf\desktop\практика(мп)\practical lesson2\cppclr_winformsprojekt1\cppclr_winformsprojekt1\Form1.h(98): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\fredf\desktop\практика(мп)\practical lesson2\cppclr_winformsprojekt1\cppclr_winformsprojekt1\Form1.h(105): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  AssemblyInfo.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  CppCLR_WinformsProjekt1.vcxproj -> C:\Users\fredf\Desktop\Практика(МП)\Practical lesson2\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.exe
+  CppCLR_WinformsProjekt1.vcxproj -> C:\Users\fredf\Desktop\Практика(МП)\Practical lesson2\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.pdb (Partial PDB)
