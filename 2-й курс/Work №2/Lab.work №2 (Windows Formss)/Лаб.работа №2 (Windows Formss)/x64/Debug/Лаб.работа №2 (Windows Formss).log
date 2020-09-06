@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\fredf\documents\visual studio 2015\projects\лаб.работа №2 (windows formss)\лаб.работа №2 (windows formss)\MyForm.h(169): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\fredf\documents\visual studio 2015\projects\лаб.работа №2 (windows formss)\лаб.работа №2 (windows formss)\MyForm.h(170): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\fredf\documents\visual studio 2015\projects\лаб.работа №2 (windows formss)\лаб.работа №2 (windows formss)\MyForm.h(171): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+LINK : fatal error LNK1561: Єюўър тїюфр фюыцэр с√Є№ юяЁхфхыхэр

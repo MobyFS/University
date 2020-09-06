@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+  Form1.cpp
+  Создание кода...
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+CppCLR_WinformsProjekt.obj : error LNK2028: ёё√ыър эр эхЁрчЁх°хээє■ ыхъёхьє (0A0003D2) "public: static double __cdecl MathFuncs::MyMathFuncs::fun(double,double)" (?fun@MyMathFuncs@MathFuncs@@$$FSANNN@Z) т ЇєэъЎшш "private: void __clrcall CppCLR_WinformsProjekt::Form1::tab(double,double,double,double &)" (?tab@Form1@CppCLR_WinformsProjekt@@$$FA$AAMXNNNAAN@Z)
+CppCLR_WinformsProjekt.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "public: static double __cdecl MathFuncs::MyMathFuncs::fun(double,double)" (?fun@MyMathFuncs@MathFuncs@@$$FSANNN@Z) т ЇєэъЎшш "private: void __clrcall CppCLR_WinformsProjekt::Form1::tab(double,double,double,double &)" (?tab@Form1@CppCLR_WinformsProjekt@@$$FA$AAMXNNNAAN@Z)
+C:\Users\fredf\Desktop\╦рс.ЁрсюЄ√ яю яшЄюэє\Work ╣4\Lab.work ╣4 (console+win)\Win.Form\Debug\Win.Form.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 2

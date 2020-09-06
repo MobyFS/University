@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\fredf\documents\visual studio 2015\projects\лаб.работа №2 (windows formss)\лаб.работа №2 (windows formss)\MyForm.h(187): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\fredf\documents\visual studio 2015\projects\лаб.работа №2 (windows formss)\лаб.работа №2 (windows formss)\MyForm.h(188): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\fredf\documents\visual studio 2015\projects\лаб.работа №2 (windows formss)\лаб.работа №2 (windows formss)\MyForm.h(189): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Лаб.работа №2 (Windows Formss).vcxproj -> C:\Users\fredf\Documents\Visual Studio 2015\Projects\Лаб.работа №2 (Windows Formss)\Debug\Лаб.работа №2 (Windows Formss).exe
+  Лаб.работа №2 (Windows Formss).vcxproj -> C:\Users\fredf\Documents\Visual Studio 2015\Projects\Лаб.работа №2 (Windows Formss)\Debug\Лаб.работа №2 (Windows Formss).pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+c:\users\fredf\desktop\лаб.работы по питону\kz 01-04\kz 01-04\Form1.h(171): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\fredf\desktop\лаб.работы по питону\kz 01-04\kz 01-04\Form1.h(172): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\fredf\desktop\лаб.работы по питону\kz 01-04\kz 01-04\Form1.h(173): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\fredf\desktop\лаб.работы по питону\kz 01-04\kz 01-04\Form1.h(174): error C2065: p: необъявленный идентификатор
+c:\users\fredf\desktop\лаб.работы по питону\kz 01-04\kz 01-04\Form1.h(184): warning C4804: <=: небезопасное использование типа "bool" в операции
+  Form1.cpp
+  Создание кода...

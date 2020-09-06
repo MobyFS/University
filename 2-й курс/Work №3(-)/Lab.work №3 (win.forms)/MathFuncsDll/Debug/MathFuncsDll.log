@@ -1,0 +1,5 @@
+﻿  MathFuncsDll.cpp
+c:\users\fredf\desktop\лаб.работы по питону\work №3\lab.work №3 (win.forms)\mathfuncsdll\mathfuncsdll.cpp(27): warning C4715: MathFuncs::MyMathFuncs::fun: значение возвращается не при всех путях выполнения
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\fredf\Desktop\╦рс.ЁрсюЄ√ яю яшЄюэє\Work ╣3\Lab.work ╣3 (win.forms)\Debug\MathFuncsDll.lib ш юс·хъЄ C:\Users\fredf\Desktop\╦рс.ЁрсюЄ√ яю яшЄюэє\Work ╣3\Lab.work ╣3 (win.forms)\Debug\MathFuncsDll.exp
+  MathFuncsDll.vcxproj -> C:\Users\fredf\Desktop\Лаб.работы по питону\Work №3\Lab.work №3 (win.forms)\Debug\MathFuncsDll.dll
+  MathFuncsDll.vcxproj -> C:\Users\fredf\Desktop\Лаб.работы по питону\Work №3\Lab.work №3 (win.forms)\Debug\MathFuncsDll.pdb (Full PDB)

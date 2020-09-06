@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\fredf\desktop\лаб.работы по питону\work №7\lab.work №6 (win.form)\lab.work6\lab.work6\MyForm.h(221): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\fredf\desktop\лаб.работы по питону\work №7\lab.work №6 (win.form)\lab.work6\lab.work6\MyForm.h(222): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\fredf\desktop\лаб.работы по питону\work №7\lab.work №6 (win.form)\lab.work6\lab.work6\MyForm.h(232): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab.work6.vcxproj -> C:\Users\fredf\Desktop\Лаб.работы по питону\Work №7\Lab.work №6 (Win.form)\Lab.work6\Debug\Lab.work6.exe
+  Lab.work6.vcxproj -> C:\Users\fredf\Desktop\Лаб.работы по питону\Work №7\Lab.work №6 (Win.form)\Lab.work6\Debug\Lab.work6.pdb (Full PDB)

@@ -1,0 +1,3 @@
+﻿  CppCLR_WinformsProjekt.cpp
+c:\users\fredf\desktop\лаб.работы по питону\work №3\lab.work №3 (win.forms)\lab.rabota №3 (win.forms)\Form1.h(176): error C2660: CppCLR_WinformsProjekt::Form1::tabulirovanie: функция не принимает 3 аргументов
+c:\users\fredf\desktop\лаб.работы по питону\work №3\lab.work №3 (win.forms)\lab.rabota №3 (win.forms)\Form1.h(181): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных

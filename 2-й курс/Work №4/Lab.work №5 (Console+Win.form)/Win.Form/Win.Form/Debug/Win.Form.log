@@ -1,0 +1,4 @@
+﻿  CppCLR_WinformsProjekt.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Win.Form.vcxproj -> C:\Users\fredf\Desktop\Лаб.работы по питону\Work №5\Lab.work №5 (Console+Win.form)\Win.Form\Debug\Win.Form.exe
+  Win.Form.vcxproj -> C:\Users\fredf\Desktop\Лаб.работы по питону\Work №5\Lab.work №5 (Console+Win.form)\Win.Form\Debug\Win.Form.pdb (Partial PDB)

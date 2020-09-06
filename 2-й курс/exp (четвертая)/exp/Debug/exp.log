@@ -1,5 +1,0 @@
-﻿  CppCLR_WinformsProjekt.cpp
-c:\users\fredf\desktop\учеба\программирование\exp (четвертая)\exp\Form1.h(564): warning C4551: в вызове функции отсутствует список аргументов
-  AssemblyInfo.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
-  exp.vcxproj -> C:\Users\fredf\Desktop\Учеба\Программирование\exp (четвертая)\Debug\exp.exe
-  exp.vcxproj -> C:\Users\fredf\Desktop\Учеба\Программирование\exp (четвертая)\Debug\exp.pdb (Partial PDB)
